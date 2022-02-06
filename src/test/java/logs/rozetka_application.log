@@ -1,0 +1,14 @@
+2022-02-06 19:03:46,767  INFO [TestNG-PoolService-1] TestNGEventListener:19 - testAddProductToCart( '2' 'Холодильники' 'Samsung' '130000' ) test case is STARTED
+2022-02-06 19:03:46,771  INFO [TestNG-PoolService-0] TestNGEventListener:19 - testAddProductToCart( '1' 'Ноутбуки' 'HP' '300000' ) test case is STARTED
+2022-02-06 19:03:46,846  INFO [TestNG-PoolService-2] TestNGEventListener:19 - testAddProductToCart( '3' 'Смартфони' 'Apple' '100000' ) test case is STARTED
+2022-02-06 19:04:12,737  INFO [TestNG-PoolService-2] TestNGEventListener:24 - testAddProductToCart( '3' 'Смартфони' 'Apple' '100000' ) test case is PASSED
+2022-02-06 19:04:14,551  INFO [TestNG-PoolService-1] TestNGEventListener:24 - testAddProductToCart( '2' 'Холодильники' 'Samsung' '130000' ) test case is PASSED
+2022-02-06 19:04:15,375  INFO [TestNG-PoolService-0] TestNGEventListener:24 - testAddProductToCart( '1' 'Ноутбуки' 'HP' '300000' ) test case is PASSED
+2022-02-06 19:04:17,314  INFO [TestNG-PoolService-2] TestNGEventListener:19 - testAddProductToCart( '4' 'Книги' 'Freedom' '2000' ) test case is STARTED
+2022-02-06 19:04:18,896  INFO [TestNG-PoolService-1] TestNGEventListener:19 - testAddProductToCart( '5' 'Велосипед' 'Discovery' '10000' ) test case is STARTED
+2022-02-06 19:04:35,889  INFO [TestNG-PoolService-1] TestNGEventListener:24 - testAddProductToCart( '5' 'Велосипед' 'Discovery' '10000' ) test case is PASSED
+2022-02-06 19:04:49,927  INFO [TestNG-PoolService-2] TestNGEventListener:24 - testAddProductToCart( '4' 'Книги' 'Freedom' '2000' ) test case is PASSED
+2022-02-06 19:04:53,713  INFO [Test worker] TestNGEventListener:19 - testShouldBeFailed( 'Ноутбуки' 'HP' '200000' ) test case is STARTED
+2022-02-06 19:04:58,280  INFO [Test worker] TestNGEventListener:31 - testShouldBeFailed( 'Ноутбуки' 'HP' '200000' ): screenshot is taken
+2022-02-06 19:04:58,281 ERROR [Test worker] TestNGEventListener:32 - testShouldBeFailed( 'Ноутбуки' 'HP' '200000' ) test case is FAILED
+2022-02-06 19:04:58,282 ERROR [Test worker] TestNGEventListener:33 - null
